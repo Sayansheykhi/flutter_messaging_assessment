@@ -1,0 +1,26 @@
+name: flutter_messaging_app
+description: Messaging app with embedded dashboard
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  webview_flutter: ^4.4.2
+  webview_flutter_web: ^0.2.2+4
+  http: ^1.1.0
+  shared_preferences: ^2.2.2
+  intl: ^0.20.2
+  file_picker: ^10.3.3
+  path_provider: ^2.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
