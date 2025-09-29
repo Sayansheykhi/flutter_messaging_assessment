@@ -433,12 +433,3 @@ npx ng lint
 - [SharedPreferences Guide](https://pub.dev/packages/shared_preferences)
 - [WebView Flutter Guide](https://pub.dev/packages/webview_flutter)
 
-## 📄 License
-
-This project is created for assessment purposes. Please refer to your organization's guidelines for usage and distribution.
-
----
-
-**Happy Coding! 🚀**
-
-For any issues or questions, please refer to the troubleshooting section above or check the project's issue tracker.
