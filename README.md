@@ -40,7 +40,7 @@ flutter_messaging_assessment/
     └── tailwind.config.js        # CSS framework config
 ```
 
-## ✨ Features
+##  Features
 
 ### 📱 Flutter App
 - **Native Messaging Interface**: Beautiful chat bubbles with timestamps
@@ -53,7 +53,7 @@ flutter_messaging_assessment/
 - **Cross-Platform**: iOS, Android, Web, Desktop support
 - **Responsive Design**: Mobile-optimized layouts
 
-### 🌐 Angular Dashboard
+###  Angular Dashboard
 - **System Overview**: Real-time metrics and health monitoring
 - **Ticket Management**: Complete support ticket lifecycle
 - **Knowledge Base**: Markdown editor with live preview
@@ -63,7 +63,7 @@ flutter_messaging_assessment/
 - **Standalone Components**: Modern Angular architecture
 - **Mobile Navigation**: Hamburger menu for small screens
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - **Flutter SDK**: 3.10.0+ ([Install Flutter](https://flutter.dev/docs/get-started/install))
@@ -276,7 +276,7 @@ dependencies:
 - **Grids**: Responsive grid layouts for all components
 - **Touch**: Optimized touch targets and interactions
 
-## 🚨 Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 
@@ -373,30 +373,30 @@ npx ng lint
 - **Web**: Use browser developer tools
 - **Console**: Check for JavaScript errors and network issues
 
-## ✅ Assessment Criteria Met
+##  Assessment Criteria Met
 
 ### Core Requirements
-- ✅ **Messaging UI**: Native Flutter implementation with smooth UX and timestamped messages
-- ✅ **Web Integration**: Angular app loads in WebView via localhost
-- ✅ **Creativity**: Engaging internal dashboard layout and content
-- ✅ **Code Quality**: Clean architecture, modular code, reasonable state management
-- ✅ **Setup Clarity**: Clear and accurate instructions for running both parts
+- **Messaging UI**: Native Flutter implementation with smooth UX and timestamped messages
+-  **Web Integration**: Angular app loads in WebView via localhost
+-  **Creativity**: Engaging internal dashboard layout and content
+-  **Code Quality**: Clean architecture, modular code, reasonable state management
+-  **Setup Clarity**: Clear and accurate instructions for running both parts
 
 ### Bonus Features Implemented
-- ✅ **Message Persistence**: SharedPreferences (key-value storage, not SQL)
-- ✅ **Notification Badges**: Real-time message count indicators
-- ✅ **Live Logs**: Real-time updates with advanced filtering
-- ✅ **Markdown Editor**: Live preview with split-screen mode
-- ✅ **Responsive Design**: Mobile-first approach with hamburger menu
-- ✅ **Cross-Platform**: iOS, Android, Web, Desktop support
-- ✅ **File Attachments**: Support for file uploads and sharing
-- ✅ **Emoji Picker**: Rich emoji selection interface
-- ✅ **Typing Indicators**: Animated typing indicators for support responses
-- ✅ **Mobile Navigation**: Responsive hamburger menu for small screens
-- ✅ **Advanced Filtering**: Multi-criteria filtering for tickets and logs
-- ✅ **Real-time Metrics**: Live system performance monitoring
+-  **Message Persistence**: SharedPreferences (key-value storage, not SQL)
+-  **Notification Badges**: Real-time message count indicators
+-  **Live Logs**: Real-time updates with advanced filtering
+-  **Markdown Editor**: Live preview with split-screen mode
+-  **Responsive Design**: Mobile-first approach with hamburger menu
+-  **Cross-Platform**: iOS, Android, Web, Desktop support
+-  **File Attachments**: Support for file uploads and sharing
+-  **Emoji Picker**: Rich emoji selection interface
+-  **Typing Indicators**: Animated typing indicators for support responses
+-  **Mobile Navigation**: Responsive hamburger menu for small screens
+-  **Advanced Filtering**: Multi-criteria filtering for tickets and logs
+-  **Real-time Metrics**: Live system performance monitoring
 
-## 🎯 Key Features Summary
+##  Key Features Summary
 
 ### Flutter App Features
 - **Native Chat Interface**: Beautiful message bubbles with timestamps
@@ -416,16 +416,16 @@ npx ng lint
 - **Mobile Navigation**: Responsive hamburger menu for small screens
 - **Modern Architecture**: Standalone components with TypeScript
 
-## 📱 Platform Support
+##  Platform Support
 
 | Platform | Status | Notes |
 |----------|--------|-------|
-| **Android** | ✅ Full Support | WebView loads Angular dashboard |
-| **iOS** | ✅ Full Support | Native iOS implementation |
-| **Web** | ✅ Full Support | Runs in browser with WebView |
-| **Desktop** | ✅ Full Support | Windows, macOS, Linux |
+| **Android** |  Full Support | WebView loads Angular dashboard |
+| **iOS** |  Full Support | Native iOS implementation |
+| **Web** |  Full Support | Runs in browser with WebView |
+| **Desktop** |  Full Support | Windows, macOS, Linux |
 
-## 🔗 Useful Links
+##  Useful Links
 
 - [Flutter Documentation](https://flutter.dev/docs)
 - [Angular Documentation](https://angular.io/docs)
