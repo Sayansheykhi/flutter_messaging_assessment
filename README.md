@@ -2,7 +2,7 @@
 
 A comprehensive Flutter application featuring a native messaging interface and an embedded Angular dashboard for internal tools management. This project demonstrates cross-platform development with Flutter and modern web technologies.
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 flutter_messaging_assessment/
@@ -42,7 +42,7 @@ flutter_messaging_assessment/
 
 ##  Features
 
-### 📱 Flutter App
+###  Flutter App
 - **Native Messaging Interface**: Beautiful chat bubbles with timestamps
 - **Message Persistence**: Local storage using SharedPreferences (not SQL)
 - **Simulated Support Agent**: AI-like responses with typing indicators
@@ -191,7 +191,7 @@ flutter run -d ios
 3. **Messages Tab**: Test chat functionality
 4. **Mobile View**: Test responsive design on small screens
 
-## 🏛️ Architecture
+##  Architecture
 
 ### Flutter App Structure
 - **`main.dart`**: App entry point with Material theme configuration
@@ -210,7 +210,7 @@ flutter run -d ios
 - **`logs-tab/`**: Live log streaming with advanced filtering
 - **`performance-tab/`**: System performance monitoring
 
-## 🔧 Technical Details
+##  Technical Details
 
 ### Flutter Dependencies
 ```yaml
@@ -250,7 +250,7 @@ dependencies:
 - **Navigation**: Handles page loads and errors
 - **Security**: Cleartext traffic enabled for localhost
 
-## 🛠️ Development Notes
+##  Development Notes
 
 ### WebView Configuration
 - **Web**: Loads from `http://localhost:4200`
